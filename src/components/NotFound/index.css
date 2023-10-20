@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+
+.not-found {
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
